@@ -1,0 +1,48 @@
+.beerbox{
+	display: flex;
+	justify-content: space-around;
+	padding: 20px;
+	background-color: #ffe0cc;
+	max-width: 75%;
+	margin: 0 auto;
+	border : 5px solid #f59342;
+	border-radius: 6px;
+}
+body{
+	background-color: #f59342;
+}
+li{
+	font-family: 'Texturina', serif;
+}
+ul{
+	-webkit-box-shadow: -5px 5px 5px 4px rgba(0,0,0,0.75);
+-moz-box-shadow: -5px 5px 5px 4px rgba(0,0,0,0.75);
+box-shadow: -5px 5px 5px 4px rgba(0,0,0,0.75);
+
+border-radius: 6px;
+}
+#banner{
+	display: flex;
+	background-color: #993d00;
+	justify-content: center;
+	max-width: 75%;
+	margin: 0 auto;
+	-webkit-box-shadow: -1px 5px 5px 9px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 5px 5px 9px rgba(0,0,0,0.75);
+box-shadow: -1px 5px 5px 9px rgba(0,0,0,0.75);
+	border-radius: 6px;
+}
+h1{
+	color: #FFF;
+	font-family: 'Alfa Slab One', cursive;
+}
+#wrapper{
+	padding-top: 30px;
+}
+img{
+	-webkit-box-shadow: 5px 5px 5px 4px rgba(0,0,0,0.75);
+-moz-box-shadow: 5px 5px 5px 4px rgba(0,0,0,0.75);
+box-shadow: 5px 5px 5px 4px rgba(0,0,0,0.75);
+
+	border-radius: 6px;
+}
